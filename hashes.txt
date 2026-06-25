@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Regarde-moi Dans Les Yeux
+
+This log tracks the cryptographic history and versioning for the song **Regarde-moi Dans Les Yeux** (regarde-moi-dans-les-yeux).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T01:33:57.673126 | `v1` | `98d4b5ecce1c960726c8b0bee117b8ab0ea59e478da5d4a7a71114b7e0c713d8` | `e1e92a9b5d479cd4204a402d2d7b784a7dd2ff8fb0f0af84c347c38a1d444714` | `2026-06-26_regarde-moi-dans-les-yeux-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
