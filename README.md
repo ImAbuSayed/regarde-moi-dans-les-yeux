@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/regarde-moi-dans-les-yeux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Regarde-moi Dans Les Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/regarde-moi-dans-les-yeux/) |
+| **Get License** | [Get License For Regarde-moi Dans Les Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/regarde-moi-dans-les-yeux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Regarde-moi dans les yeux, dis-moi c'que tu veux faire
+> La nuit est à nous, babe, on a quitté la Terre
+> Ton reflet dans la vitre, j'suis accro à ton charme
+> On glisse sur le boulevard, j'veux être ton seul programme
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
